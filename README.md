@@ -15,4 +15,14 @@ Built using **Python, OpenCV, MediaPipe, and PyAutoGUI**.
 - PyAutoGUI
 - NumPy
 
+| Gesture              | Action         |
+| -------------------- | -------------- |
+| 👉 Move index finger | Move cursor    |
+| 🤏 Pinch             | Left click     |
+| ✌️ “V” sign          | Drag           |
+| 🖐 Raise/lower hand  | Scroll up/down |
+| 👍 Thumb up          | Right click    |
+| ✊ Fist               | Double click   |
+| 🔴 Press **Q**       | Quit           |
+
 
